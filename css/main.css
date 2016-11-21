@@ -1,0 +1,26 @@
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  color: #fff;
+  background: linear-gradient(131deg, #111, #444);
+  text-align: center;
+  padding: 10% 0 0;
+}
+
+h1 {
+  font: 9vw 'Playfair Display', Georgia, serif;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+h2 {
+  font: 1.8vw 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #fff;
+  margin: 0;
+}
